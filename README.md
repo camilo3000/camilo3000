@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @camilo3000
+- 👋 Hi, I’m Camilo Fabian ;)
 - 👀 I’m interested in in Java programming
 - 🌱 Currently university
 - 💞️ I’m looking to collaborate on small programs
